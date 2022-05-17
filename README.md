@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 👋 <code>Hello World</code> - Ramiro here
+### <code>Hello World</code> - Ramiro here
 #### Welcome to my github
 ![Welcome to my github](https://rosvain.github.io/assets/ro-binary-banner.png)
 
